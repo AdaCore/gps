@@ -1,6 +1,6 @@
 """
 This is the python format checker plugin for GPS.
-Its aim is to check identatoin, style when:
+Its aim is to check indentation, style when:
  1 user stop editing
  2 before python script is saved
 """
